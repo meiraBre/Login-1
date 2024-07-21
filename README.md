@@ -5,7 +5,6 @@ Desenvolvi minha primeira página de login com o auxílio do youtube para pratic
 
 ## 🔎Índice
 
-- [Visão Geral]()
 - Tecnologias: HTML e CSS
 
 ## 🔎IAs utilizadas:
